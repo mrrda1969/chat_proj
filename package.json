@@ -1,0 +1,19 @@
+{
+  "name": "chat_proj",
+  "version": "1.0.0",
+  "description": "Backend for the chatbot project for elearning",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+ssh://git@github.com/mrrda1969/chat_proj.git"
+  },
+  "author": "mrrda1969",
+  "license": "Apache-2.0",
+  "bugs": {
+    "url": "https://github.com/mrrda1969/chat_proj/issues"
+  },
+  "homepage": "https://github.com/mrrda1969/chat_proj#readme"
+}
